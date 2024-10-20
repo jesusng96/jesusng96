@@ -17,5 +17,6 @@
 
 
 ### Puedes encontrarme en: ###
-- [Twitter](https://twitter.com/inventado)
-- [youtube](https://youtube.com/inventado)
+-🐦 [Twitter](https://twitter.com/inventado)
+
+-📹 [youtube](https://youtube.com/inventado)
