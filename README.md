@@ -1,12 +1,21 @@
+# Sobre mi: #
+
 - 👋 Hola,soy Jesus, estudiante de Murciaeduca. 
 - 👀 Estoy interesado en especializarme en de inteligencia artificial.
 - 🌱 Estoy aprendiendo lenguaje de marcas actualmente.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-jesusng96/jesusng96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Entidad educativa ##
+- 🏫 Centro Integral de Formación Profesional a
+     Distancia "La Conservera" - Región de Murcia.
+
+## Satck tegnologico conocido ##
+ - 🛠️ Herramientas de programación conocidas: HTML, CSS, GIT, JavaScript.
+    
+  ## Contacto ##
+-  📫 Contacto: 4844072@alu.murciaeduca.es
+
+
+### Puedes encontrarme en: ###
+- [Twitter](https://twitter.com/inventado)
+- [youtube](https://youtube.com/inventado)
